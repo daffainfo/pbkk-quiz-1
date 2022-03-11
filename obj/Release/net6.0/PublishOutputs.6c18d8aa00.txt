@@ -1,0 +1,7 @@
+D:\Quiz\publish\Quiz.exe
+D:\Quiz\publish\appsettings.Development.json
+D:\Quiz\publish\appsettings.json
+D:\Quiz\publish\Quiz.dll
+D:\Quiz\publish\Quiz.deps.json
+D:\Quiz\publish\Quiz.runtimeconfig.json
+D:\Quiz\publish\Quiz.pdb

@@ -1,0 +1,12 @@
+D:\Quiz\bin\Release\net6.0\publish\Quiz.exe
+D:\Quiz\bin\Release\net6.0\publish\publish\web.config
+D:\Quiz\bin\Release\net6.0\publish\appsettings.Development.json
+D:\Quiz\bin\Release\net6.0\publish\appsettings.json
+D:\Quiz\bin\Release\net6.0\publish\publish\appsettings.Development.json
+D:\Quiz\bin\Release\net6.0\publish\publish\appsettings.json
+D:\Quiz\bin\Release\net6.0\publish\publish\Quiz.deps.json
+D:\Quiz\bin\Release\net6.0\publish\publish\Quiz.runtimeconfig.json
+D:\Quiz\bin\Release\net6.0\publish\Quiz.dll
+D:\Quiz\bin\Release\net6.0\publish\Quiz.deps.json
+D:\Quiz\bin\Release\net6.0\publish\Quiz.runtimeconfig.json
+D:\Quiz\bin\Release\net6.0\publish\Quiz.pdb
